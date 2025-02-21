@@ -55,5 +55,6 @@ Suite aux retours des **coachs** et de **Mathias** :
 - **5 blâmes** → **Note de 0** au YDays  
 
 ---
+** metter une etoiles pour valider les regles ⭐ **
 
 ✏️ *Respectez ces consignes pour assurer une bonne organisation et le bon déroulement des projets !*
