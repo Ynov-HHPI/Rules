@@ -25,7 +25,8 @@ Des **GitHub Projects** ont été créés pour chacun de vos projets.
 ## 📝 Documentation des projets
 Dans chaque dépôt de projet, **créez un `README.md`** expliquant votre projet avec :  
 - Une **présentation claire** du projet  
-- Des **images** illustrant l'avancement concret  
+- Des **images** illustrant l'avancement concret
+- Une **liste** des objectifs de vos projets
 
 📌 Si vous ne souhaitez pas héberger votre projet sur GitHub, **remplissez tout de même les demandes ci-dessus**.
 
@@ -33,7 +34,7 @@ Dans chaque dépôt de projet, **créez un `README.md`** expliquant votre projet
 
 ## 📄 Comptes-rendus (CR)
 📢 **Pour les chefs de projet** :  
-Vous avez accès à un **repo "CR"**.  
+Vous avez accès à un **repo "Compte-Rendus"**.  
 ➡️ **Tous les comptes-rendus de fin de séance doivent être déposés ici.**
 
 ---
